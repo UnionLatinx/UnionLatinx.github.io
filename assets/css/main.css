@@ -2120,9 +2120,17 @@
 			display: inline-block;
 			vertical-align: middle;
 		}
+		#rectangle{
+			position: relative;
+			z-index: 1;
+			margin: 0;
+			display: inline-block;
+			vertical-align: middle;
+    background:black;
+}
     bg {
-			background-color: DarkRed;
-			color: black;
+      
+			color: white;
 		}
 		#header header {
 			display: inline-block;
